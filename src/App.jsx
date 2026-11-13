@@ -1,6 +1,6 @@
 
 import { useState } from "react";
-import { products } from "./challenges/products";
+import { products } from "./Challenges/Products.js";
 
 function App() {
   const [search, setSearch] = useState("");
